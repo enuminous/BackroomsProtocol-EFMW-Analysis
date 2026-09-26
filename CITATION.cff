@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Backrooms Protocol: EFMW Filmic Analysis"
+message: "If you use this conceptual formalism, cite this repository."
+type: software
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+version: 0.1.0
+date-released: 2026-09-25
+license: MIT
