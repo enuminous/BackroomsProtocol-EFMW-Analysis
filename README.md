@@ -1,5 +1,11 @@
 # Backrooms Protocol: EFMW Filmic Analysis
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis) · This repository is linked through its source; GitHub Pages is not enabled.
+<!-- ENUMINOUS-NETWORK:END -->
+
 A compact mathematical formalization of filmic interpretation under unstable spatial, temporal, perceptual, and mnemonic coherence.
 
 **Status:** conceptual mathematics / analytic model. This repository does not claim that *Backrooms* demonstrates EFMW physics. It treats a filmic world as a dynamical observation system and formalizes the interpretive problem faced by an embedded observer.
